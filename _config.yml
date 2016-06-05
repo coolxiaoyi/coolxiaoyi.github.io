@@ -1,4 +1,4 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+ï»¿# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
 paginate: 5 # pagination based on number of posts
 paginate_path: "page:num"
@@ -7,28 +7,29 @@ highlighter: pygments
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: âù¹øµÄÓã
+title: æ€¡é”…çš„é±¼
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: âù¹øµÄÓã
+      title: æ€¡é”…çš„é±¼
 
-description: Éú»î²»Ö»ÑÛÇ°µÄ¹¶ÇÒ »¹ÓĞÊ«ºÍÔ¶·½
-# gavatarÍ·Ïñ¼°Favicon
+description: ç”Ÿæ´»ä¸åªçœ¼å‰çš„è‹Ÿä¸” è¿˜æœ‰è¯—å’Œè¿œæ–¹
+
+# gavatarå¤´åƒåŠFavicon
 gavatar: http://img0.ph.126.net/0SVHduWIfIvgduIltWIhBQ==/1629740115257280873.jpg
 favicon: http://img0.ph.126.net/0SVHduWIfIvgduIltWIhBQ==/1629740115257280873.jpg
 
 author:
-  name: âù¹øµÄÓã
+  name: æ€¡é”…çš„é±¼
   email: xiaoyisjz@126.com
   github: coolxiaoyi
   twitter: dbtek
   pinterest: asd123
   linkedin: asd123
-  bio: Éú»î²»Ö»ÑÛÇ°µÄ¹¶ÇÒ »¹ÓĞÊ«ºÍÔ¶·½
+  bio: ç”Ÿæ´»ä¸åªçœ¼å‰çš„è‹Ÿä¸” è¿˜æœ‰è¯—å’Œè¿œæ–¹
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
