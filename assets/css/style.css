@@ -189,7 +189,7 @@ ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 768px) {
 	.img-circle {
 		width: 50px;
 	}
@@ -197,7 +197,7 @@ ul.dropdown-menu>li>a>i.fa {
 		padding: 5px 15px;
 	}
 }
-@media screen and (max-width: 768px)  and (min-width: 1110px){
+@media screen and (min-width: 768px)  and (max-width: 1110px){
 	.img-circle {
 		width: 100%;
 	}
