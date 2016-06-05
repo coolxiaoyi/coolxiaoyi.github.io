@@ -19,8 +19,8 @@ defaults:
 description: 生活不只眼前的苟且 还有诗和远方
 
 # gavatar头像及Favicon
-gavatar: http://img0.ph.126.net/0SVHduWIfIvgduIltWIhBQ==/1629740115257280873.jpg
-favicon: http://img0.ph.126.net/0SVHduWIfIvgduIltWIhBQ==/1629740115257280873.jpg
+gavatar: /images/head.jpg
+favicon: /images/head.jpg
 
 author:
   name: 怡锅的鱼
