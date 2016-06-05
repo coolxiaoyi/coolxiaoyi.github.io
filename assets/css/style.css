@@ -188,7 +188,11 @@ footer {
 ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
-
+@media screen and (max-width: 374px) {
+	.navbar-default .navbar-brand {
+		font-size: 0px;
+	}
+}
 @media screen and (max-width: 768px) {
 	.img-circle {
 		width: 50px;
